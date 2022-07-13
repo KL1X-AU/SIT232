@@ -1,0 +1,15 @@
+D:\git\SIT232\1.1p\1.1P_microwave\bin\Debug\net6.0\microwave.exe
+D:\git\SIT232\1.1p\1.1P_microwave\bin\Debug\net6.0\microwave.deps.json
+D:\git\SIT232\1.1p\1.1P_microwave\bin\Debug\net6.0\microwave.runtimeconfig.json
+D:\git\SIT232\1.1p\1.1P_microwave\bin\Debug\net6.0\microwave.dll
+D:\git\SIT232\1.1p\1.1P_microwave\bin\Debug\net6.0\microwave.pdb
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.csproj.AssemblyReference.cache
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.AssemblyInfoInputs.cache
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.AssemblyInfo.cs
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.csproj.CoreCompileInputs.cache
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.dll
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\refint\microwave.dll
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.pdb
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\microwave.genruntimeconfig.cache
+D:\git\SIT232\1.1p\1.1P_microwave\obj\Debug\net6.0\ref\microwave.dll
