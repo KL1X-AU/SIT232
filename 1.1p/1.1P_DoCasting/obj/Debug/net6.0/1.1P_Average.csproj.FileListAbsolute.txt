@@ -1,0 +1,15 @@
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.csproj.AssemblyReference.cache
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.AssemblyInfoInputs.cache
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.AssemblyInfo.cs
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.csproj.CoreCompileInputs.cache
+D:\git\SIT232\1.1p\1.1P_Average\bin\Debug\net6.0\1.1P_Average.exe
+D:\git\SIT232\1.1p\1.1P_Average\bin\Debug\net6.0\1.1P_Average.deps.json
+D:\git\SIT232\1.1p\1.1P_Average\bin\Debug\net6.0\1.1P_Average.runtimeconfig.json
+D:\git\SIT232\1.1p\1.1P_Average\bin\Debug\net6.0\1.1P_Average.dll
+D:\git\SIT232\1.1p\1.1P_Average\bin\Debug\net6.0\1.1P_Average.pdb
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.dll
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\refint\1.1P_Average.dll
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.pdb
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\1.1P_Average.genruntimeconfig.cache
+D:\git\SIT232\1.1p\1.1P_Average\obj\Debug\net6.0\ref\1.1P_Average.dll
