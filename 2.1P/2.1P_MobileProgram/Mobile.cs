@@ -5,8 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 class Mobile
 {
+    //Instance Variables
     private String accType, device, number;
     private double balance;
+
+    //VARIABLES
+    private const double CALL_COST = 0.245;
+    private const double TEXT_COST = 0.078;
+    
     public Mobile(string accType, string device, string number)
     {
         this.accType = accType;
@@ -49,5 +55,24 @@ class Mobile
     public void setBalance(double balance)
     {
         this.balance = balance;
+    }
+
+    //Custom Mutators
+    public void AddCredit(double amount)
+    {
+        this.balance += amount;
+        Console.WriteLine($"Credit added successfully. New Balance: {getBalance()}");
+    }
+    public void MakeCall(int minutes)
+    {
+        double cost = minutes * CALL_COST;
+        this.balance -= cost;
+        Console.WriteLine($"{minutes} Minute Call Made. New Balance: {getBalance()}");
+    }
+    public void sendText(int numTexts)
+    {
+        double cost = numTexts * TEXT_COST;
+        this.balance -= cost;
+        Console.WriteLine($"{numTexts} Texts Sent. New Balance {getBalance()}");
     }
 }

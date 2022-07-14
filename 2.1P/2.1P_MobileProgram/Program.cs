@@ -2,9 +2,10 @@
 {
     static void Main(string[] args)
     {
-        Mobile jimMobile = new Mobile("Monthly", "Samsung Glaxy S6", "07712223344");
-
+        //creating object of class program
         MobileProgram pr = new MobileProgram();
+        Mobile jimMobile = new Mobile("Monthly", "Samsung Glaxy S6", "07712223344");
+        Mobile lachlanMobile = new Mobile("Monthly", "Samsung Glaxy S21 Ultra", "0449005985");
 
         pr.checkAccount(jimMobile);
 
@@ -14,6 +15,18 @@
         jimMobile.setBalance(15.50);
 
         pr.checkAccount(jimMobile);
+
+        jimMobile.AddCredit(10.0);
+        jimMobile.MakeCall(5);
+        jimMobile.sendText(2);
+        Console.ReadLine();
+
+        pr.checkAccount(lachlanMobile);
+
+        lachlanMobile.AddCredit(10.0);
+        lachlanMobile.MakeCall(2);
+        lachlanMobile.sendText(4);
+        Console.ReadLine();
     }
 
     public void checkAccount(Mobile account)

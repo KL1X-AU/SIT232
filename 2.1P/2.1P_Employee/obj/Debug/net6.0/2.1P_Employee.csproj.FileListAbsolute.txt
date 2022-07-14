@@ -1,0 +1,15 @@
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.csproj.AssemblyReference.cache
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.AssemblyInfoInputs.cache
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.AssemblyInfo.cs
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.csproj.CoreCompileInputs.cache
+D:\git\SIT232\2.1P\2.1P_Employee\bin\Debug\net6.0\2.1P_Employee.exe
+D:\git\SIT232\2.1P\2.1P_Employee\bin\Debug\net6.0\2.1P_Employee.deps.json
+D:\git\SIT232\2.1P\2.1P_Employee\bin\Debug\net6.0\2.1P_Employee.runtimeconfig.json
+D:\git\SIT232\2.1P\2.1P_Employee\bin\Debug\net6.0\2.1P_Employee.dll
+D:\git\SIT232\2.1P\2.1P_Employee\bin\Debug\net6.0\2.1P_Employee.pdb
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.dll
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\refint\2.1P_Employee.dll
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.pdb
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\2.1P_Employee.genruntimeconfig.cache
+D:\git\SIT232\2.1P\2.1P_Employee\obj\Debug\net6.0\ref\2.1P_Employee.dll
