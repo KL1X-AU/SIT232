@@ -1,0 +1,15 @@
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\bin\Debug\net6.0\1.2P_DivisibleFour.exe
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\bin\Debug\net6.0\1.2P_DivisibleFour.deps.json
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\bin\Debug\net6.0\1.2P_DivisibleFour.runtimeconfig.json
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\bin\Debug\net6.0\1.2P_DivisibleFour.dll
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\bin\Debug\net6.0\1.2P_DivisibleFour.pdb
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.csproj.AssemblyReference.cache
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.AssemblyInfoInputs.cache
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.AssemblyInfo.cs
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.csproj.CoreCompileInputs.cache
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.dll
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\refint\1.2P_DivisibleFour.dll
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.pdb
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\1.2P_DivisibleFour.genruntimeconfig.cache
+C:\git\SIT232\1.2p\1.2P_DivisibleFour\obj\Debug\net6.0\ref\1.2P_DivisibleFour.dll
