@@ -1,0 +1,15 @@
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.csproj.AssemblyReference.cache
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.AssemblyInfoInputs.cache
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.AssemblyInfo.cs
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.csproj.CoreCompileInputs.cache
+C:\git\SIT232\2.1P\2.1P_MobileProgram\bin\Debug\net6.0\2.1P_MobileProgram.exe
+C:\git\SIT232\2.1P\2.1P_MobileProgram\bin\Debug\net6.0\2.1P_MobileProgram.deps.json
+C:\git\SIT232\2.1P\2.1P_MobileProgram\bin\Debug\net6.0\2.1P_MobileProgram.runtimeconfig.json
+C:\git\SIT232\2.1P\2.1P_MobileProgram\bin\Debug\net6.0\2.1P_MobileProgram.dll
+C:\git\SIT232\2.1P\2.1P_MobileProgram\bin\Debug\net6.0\2.1P_MobileProgram.pdb
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.dll
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\refint\2.1P_MobileProgram.dll
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.pdb
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\2.1P_MobileProgram.genruntimeconfig.cache
+C:\git\SIT232\2.1P\2.1P_MobileProgram\obj\Debug\net6.0\ref\2.1P_MobileProgram.dll
