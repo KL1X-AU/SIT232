@@ -1,0 +1,15 @@
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.csproj.AssemblyReference.cache
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.AssemblyInfoInputs.cache
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.AssemblyInfo.cs
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.csproj.CoreCompileInputs.cache
+C:\git\SIT232\1.2p\1.2P_Repetition\bin\Debug\net6.0\1.2P_Repetition.exe
+C:\git\SIT232\1.2p\1.2P_Repetition\bin\Debug\net6.0\1.2P_Repetition.deps.json
+C:\git\SIT232\1.2p\1.2P_Repetition\bin\Debug\net6.0\1.2P_Repetition.runtimeconfig.json
+C:\git\SIT232\1.2p\1.2P_Repetition\bin\Debug\net6.0\1.2P_Repetition.dll
+C:\git\SIT232\1.2p\1.2P_Repetition\bin\Debug\net6.0\1.2P_Repetition.pdb
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.dll
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\refint\1.2P_Repetition.dll
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.pdb
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\1.2P_Repetition.genruntimeconfig.cache
+C:\git\SIT232\1.2p\1.2P_Repetition\obj\Debug\net6.0\ref\1.2P_Repetition.dll

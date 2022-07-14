@@ -1,0 +1,15 @@
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.csproj.AssemblyReference.cache
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.AssemblyInfoInputs.cache
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.AssemblyInfo.cs
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\git\SIT232\1.2p\GuessingNumber\bin\Debug\net6.0\GuessingNumber.exe
+C:\git\SIT232\1.2p\GuessingNumber\bin\Debug\net6.0\GuessingNumber.deps.json
+C:\git\SIT232\1.2p\GuessingNumber\bin\Debug\net6.0\GuessingNumber.runtimeconfig.json
+C:\git\SIT232\1.2p\GuessingNumber\bin\Debug\net6.0\GuessingNumber.dll
+C:\git\SIT232\1.2p\GuessingNumber\bin\Debug\net6.0\GuessingNumber.pdb
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.dll
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\refint\GuessingNumber.dll
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.pdb
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\GuessingNumber.genruntimeconfig.cache
+C:\git\SIT232\1.2p\GuessingNumber\obj\Debug\net6.0\ref\GuessingNumber.dll
