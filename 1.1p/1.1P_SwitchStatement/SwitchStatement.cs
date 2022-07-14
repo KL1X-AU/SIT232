@@ -20,9 +20,8 @@
                 case 9: Console.WriteLine("NINE"); break;
                 default: Console.WriteLine("You did not enter a number between 1 and 9."); break;
             }
-            Console.ReadLine();
         }
-        catch
+        catch (System.Exception)
         {
             Console.WriteLine("ERROR");
         }

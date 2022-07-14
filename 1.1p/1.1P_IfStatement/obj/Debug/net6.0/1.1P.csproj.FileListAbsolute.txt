@@ -13,3 +13,18 @@ D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P\obj\Debug\net6.0\refint
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P\obj\Debug\net6.0\1.1P.pdb
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P\obj\Debug\net6.0\1.1P.genruntimeconfig.cache
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P\obj\Debug\net6.0\ref\1.1P.dll
+C:\git\SIT232\1.1p\1.1P_IfStatement\bin\Debug\net6.0\1.1P.runtimeconfig.json
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.pdb
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.csproj.AssemblyReference.cache
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.AssemblyInfoInputs.cache
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.AssemblyInfo.cs
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.csproj.CoreCompileInputs.cache
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.dll
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\refint\1.1P.dll
+C:\git\SIT232\1.1p\1.1P_IfStatement\bin\Debug\net6.0\1.1P.exe
+C:\git\SIT232\1.1p\1.1P_IfStatement\bin\Debug\net6.0\1.1P.deps.json
+C:\git\SIT232\1.1p\1.1P_IfStatement\bin\Debug\net6.0\1.1P.dll
+C:\git\SIT232\1.1p\1.1P_IfStatement\bin\Debug\net6.0\1.1P.pdb
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\1.1P.genruntimeconfig.cache
+C:\git\SIT232\1.1p\1.1P_IfStatement\obj\Debug\net6.0\ref\1.1P.dll

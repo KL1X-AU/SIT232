@@ -13,3 +13,18 @@ D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P_SwitchStatement\obj\Deb
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.pdb
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.genruntimeconfig.cache
 D:\OneDrive - Deakin University\T2_2022\SIT232\Code\1.1P_SwitchStatement\obj\Debug\net6.0\ref\1.1P_SwitchStatement.dll
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\bin\Debug\net6.0\1.1P_SwitchStatement.exe
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\bin\Debug\net6.0\1.1P_SwitchStatement.deps.json
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\bin\Debug\net6.0\1.1P_SwitchStatement.runtimeconfig.json
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\bin\Debug\net6.0\1.1P_SwitchStatement.dll
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\bin\Debug\net6.0\1.1P_SwitchStatement.pdb
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.csproj.AssemblyReference.cache
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.AssemblyInfoInputs.cache
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.AssemblyInfo.cs
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.csproj.CoreCompileInputs.cache
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.dll
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\refint\1.1P_SwitchStatement.dll
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.pdb
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\1.1P_SwitchStatement.genruntimeconfig.cache
+C:\git\SIT232\1.1p\1.1P_SwitchStatement\obj\Debug\net6.0\ref\1.1P_SwitchStatement.dll

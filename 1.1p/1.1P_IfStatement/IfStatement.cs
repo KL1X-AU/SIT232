@@ -5,7 +5,7 @@
         Console.WriteLine("Enter the number (as an integer): ");
         try
         {
-            int number = Convert.ToInt32(Console.ReadLine());
+            uint number = Convert.ToUInt32(Console.ReadLine());
 
             if (number == 1)
             {
@@ -48,7 +48,7 @@
                 Console.WriteLine("You did not input an integer between 1 and 9.");
             }
         }
-        catch
+        catch (System.Exception)
         {
             Console.WriteLine("Error!");
         };
